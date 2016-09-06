@@ -1,0 +1,4 @@
+---
+# vars file for ansible-ngrep
+ngrep_packages:
+  - ngrep
